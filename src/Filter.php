@@ -1,4 +1,7 @@
 <?php
+
+namespace GustavoSantarosa\Filter;
+
  /**
  * Classe designada a filtrar dados para automatizar os controllers
  * 
@@ -9,7 +12,7 @@
  * Diretório Pai - lib
  * Arquivo - DataFilter.php
  */
-class DataFilter
+class Filter
 {
     /**
     * Retira pontuacao da string 
